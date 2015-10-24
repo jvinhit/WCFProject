@@ -1,0 +1,8 @@
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\EmployeeService.Web\obj\Debug\EmployeeService.Web.csprojResolveAssemblyReference.cache
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\EmployeeService.Web\bin\EmployeeService.Web.dll.config
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\EmployeeService.Web\bin\EmployeeService.Web.dll
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\EmployeeService.Web\bin\EmployeeService.Web.pdb
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\EmployeeService.Web\bin\EmployeeService.dll
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\EmployeeService.Web\bin\EmployeeService.pdb
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\EmployeeService.Web\obj\Debug\EmployeeService.Web.dll
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\EmployeeService.Web\obj\Debug\EmployeeService.Web.pdb

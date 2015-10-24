@@ -1,0 +1,6 @@
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\FirstWCFWebService\bin\FirstWCFWebService.dll.config
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\FirstWCFWebService\bin\FirstWCFWebService.dll
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\FirstWCFWebService\bin\FirstWCFWebService.pdb
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\FirstWCFWebService\obj\Debug\FirstWCFWebService.csprojResolveAssemblyReference.cache
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\FirstWCFWebService\obj\Debug\FirstWCFWebService.dll
+C:\Users\PING\Documents\Visual Studio 2013\Projects\FirstWCFWebService\FirstWCFWebService\obj\Debug\FirstWCFWebService.pdb
