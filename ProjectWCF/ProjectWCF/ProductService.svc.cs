@@ -32,14 +32,14 @@ namespace ProjectWCF
             }
         }
 
-        public Produto New(Produto pro)
+        public Produto New(Produto produto)
         {
             using (_db = new ProjetoModeloDBEntities())
             {
                 _db.Configuration.ProxyCreationEnabled = false;
-                _db.Produto.Add(pro);
+                _db.Produto.Add(produto);
                 _db.SaveChanges();
-                return pro;
+                return produto;
             }
         }
 
